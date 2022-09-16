@@ -1,6 +1,6 @@
 export default {
   fetch: async (req, ctx) => {
-    const data = fetch('https://unicode.org/Public/UNIDATA/UnicodeData.txt').then(res => res.json())
+    const data = fetch('https://unicode.org/Public/UNIDATA/UnicodeData.txt').then(res => res.text())
     const rows = data.split('\n')
     const categories = rows.reduce((acc, row) => {
       const [ value, nam, category, className, bidirectionalCategory, mapping, decimalDigitValue, digitValue, 
@@ -10,4 +10,5 @@ export default {
                                     numericValue, mirrored, unicodeName, comment, uppercaseMapping, lowercaseMapping, titlecaseMapping }}
     }, {})
     return new Response(JSON.stringify({categories}, null, 2), { headers: { 'content-type': 'application/json; charset=utf-8' }})
+  }
 }
