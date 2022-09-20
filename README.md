@@ -31,6 +31,8 @@ Enclosing Triangle:
 
 ☁⃣
 
+★⃣
+
 ## Symbols
 
 ▲⃣
