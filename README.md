@@ -2,8 +2,29 @@
 
 These are some of my favorite things buried in Unicode:
 
+Enclosing Keycap:
 ```
 ⃣
+```
+
+Enclosing Circle:
+```
+⃝
+```
+
+Enclosing Square:
+```
+⃞
+```
+
+Enclosing Diamond:
+```
+⃟
+```
+
+Enclosing Triangle:
+```
+⃤
 ```
 
 ## Symbols
