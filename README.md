@@ -2,6 +2,10 @@
 
 These are some of my favorite things buried in Unicode:
 
+```
+⃣
+```
+
 ## Symbols
 
 ▲⃣
