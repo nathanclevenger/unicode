@@ -29,7 +29,7 @@ Enclosing Triangle:
 
 ⚡️⃣
 
-☁
+☁⃣
 
 ## Symbols
 
