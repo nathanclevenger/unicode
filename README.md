@@ -29,6 +29,8 @@ Enclosing Triangle:
 
 ⚡️⃣
 
+☁
+
 ## Symbols
 
 ▲⃣
