@@ -27,7 +27,7 @@ Enclosing Triangle:
 ⃤
 ```
 
-⚡️
+⚡️⃣
 
 ## Symbols
 
