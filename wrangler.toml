@@ -1,4 +1,4 @@
-name = "csv-do"
+name = "unicode-do"
 account_id = "b6641681fe423910342b9ffa1364c76d"
 route = { pattern = "*/*", zone_id = "dcd5d34c088be24bc9e73b4ade737291" }
 main = "worker.js"
