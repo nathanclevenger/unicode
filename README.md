@@ -2,6 +2,12 @@
 
 These are some of my favorite things buried in Unicode:
 
+<https://unicode.to/names.json>
+<https://unicode.to/symbols.json>
+<https://unicode.to/unicode.json>
+<https://unicode.to/values.json>
+
+
 Enclosing Keycap:
 ```
 ⃣
